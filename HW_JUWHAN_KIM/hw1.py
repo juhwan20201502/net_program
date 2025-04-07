@@ -1,1 +1,0 @@
-pritn('This is a hw1.')
